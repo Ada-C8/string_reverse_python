@@ -1,3 +1,3 @@
-# A function to reverse a string in place.
+# A function to reverse a string.
 def string_reverse(my_string):
     pass
