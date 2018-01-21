@@ -1,6 +1,5 @@
 # String Reverse in Python
 In this assignment, you'll design and implement one of the string manipulation functions that is commonly asked during interviews.
-Remember that a string is an array of characters. Algorithms that worked on restricted arrays will work on strings as well.
 
 ## Exercise
 Design and implement a method to reverse a string. For example, if the method is called with an input parameter of "Lovelace", the method should return a new string object with the value "ecalevoL". Share and explain the time and space complexities for your solution.
